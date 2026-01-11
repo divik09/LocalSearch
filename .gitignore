@@ -1,0 +1,25 @@
+# Maven/Gradle build directories
+backend/target/
+backend/build/
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
